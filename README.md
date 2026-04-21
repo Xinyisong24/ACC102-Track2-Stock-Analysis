@@ -33,7 +33,10 @@ This project analyzes the historical stock performance of three major U.S. tech 
 3. Open `StockAnalysis.ipynb` and run all cells sequentially.
 4. Check the output cells for printed results (risk metrics, correlation matrix) and generated visualizations.
 
-## 6. Limitations & next steps
+## 6. Product link / Demo
+https://video.xjtlu.edu.cn/Mediasite/MyMediasite/embedded/presentations/c9f233449360462085a3b88e24559cd81d
+
+## 7. Limitations & next steps
 - **Limitations**:
   - The analysis is based on only **one year** of data, which may not reflect long-term market patterns.
   - No macroeconomic factors (e.g., interest rates, GDP) or company fundamental data (e.g., P/E ratio) are included.
